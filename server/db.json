@@ -1,0 +1,50 @@
+{
+  "contacts": [
+    {
+      "id": "ghVHbhHkJAs",
+      "name": "Tohirjon",
+      "company": "HLC Technologies",
+      "email": "tohirjon@gmail.com",
+      "title": "Software Engineer",
+      "mobile": 8532990345777,
+      "photo": "https://cdn-icons-png.flaticon.com/512/219/219986.png",
+      "groupId": "2"
+    },
+    {
+      "name": "Rihanna",
+      "photo": "https://avatars.mds.yandex.net/i?id=1f706331cca0409a99c71a1caf5566e36588c193-6909092-images-thumbs&n=13",
+      "email": "rihanna@gmail.com",
+      "mobile": 3523636327,
+      "company": "Universal",
+      "title": "Singer",
+      "groupId": "6",
+      "id": "3xvOi3x"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
